@@ -1,2 +1,1 @@
-2학년 개인 자바 게임 프로젝트 과제
--슈팅 게임
+Implementing a Shooting game based on Java.
